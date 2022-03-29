@@ -1,0 +1,27 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/filesOptionsHeader">
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:title="@string/saveImageOption"
+            android:key="save_image"
+            android:summary="@string/saveImagesSwitch" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/ocrOptionsHeader">
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:title="@string/greekCharsOption"
+            android:key="greek_chars"
+            android:summary="@string/greekCharsSwitch" />
+        <ListPreference
+            android:key="languages"
+            android:dialogTitle="@string/listprefSelectLang"
+            android:title="@string/languagesOption"
+            android:defaultValue="eng"
+            android:entries="@array/language_names_array"
+            android:entryValues="@array/language_values_array"
+            android:summary="@string/languageSelectSummary" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

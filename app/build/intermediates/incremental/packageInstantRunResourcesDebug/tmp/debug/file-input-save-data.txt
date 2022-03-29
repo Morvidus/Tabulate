@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue Oct 16 01:32:04 BST 2018
+2.base=D\:\\Users\\Nat\\Documents\\Tabulate\\app\\build\\intermediates\\assets\\debug
+0.path=tessdata/fra.traineddata
+2.baseType=DIRECTORY
+3.base=D\:\\Users\\Nat\\Documents\\Tabulate\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=tessdata/deu.traineddata
+4.base=D\:\\Users\\Nat\\Documents\\Tabulate\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=tessdata/grc.traineddata
+4.set=ASSET
+3.path=tessdata/eng.traineddata
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=tessdata/esp.traineddata
+1.baseType=DIRECTORY
+0.base=D\:\\Users\\Nat\\Documents\\Tabulate\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=D\:\\Users\\Nat\\Documents\\Tabulate\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

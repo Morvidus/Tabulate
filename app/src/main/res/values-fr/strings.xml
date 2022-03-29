@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tabulate</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="buttonOK">D\'accord</string>
+    <string name="renameSuccessMessage">CSV créé avec succès</string>
+    <string name="scanningImageMessage">Balayage</string>
+    <string name="noCSVMessage">Image pas encore scannée</string>
+    <string name="createCSVCancelled">Création de CSV annulée</string>
+    <string name="createCSVFailure">La création de CSV a échoué</string>
+    <string name="buttonCancel">Annuler</string>
+    <string name="sp_languages">Langues</string>
+    <string name="loadImage">Charger l\'image</string>
+    <string name="scanButton">Balayage</string>
+    <string name="AlertTitleSetFileName">Définir le nom du fichier CSV</string>
+    <string name="exportButton">Export CSV</string>
+    <string name="clearLinesButton">Clair</string>
+    <string name="delLineButton">Effacer</string>
+    <string name="cameraButton">Capture d\'image</string>
+    <string name="recentFiles">Les fichiers récents apparaîtront ici</string>
+    <string name="exportFile">Partager CSV</string>
+    <string name="buttonSave">"Enregistrer "</string>
+    <string name="createImageFileFailure">ERREUR: impossible de créer un fichier image</string>
+    <string name="aboutOption">"à propos de "</string>
+    <string name="thresholdDialogNegative">Ne pas seuil</string>
+    <string name="helpOption">Aidez-moi</string>
+    <string name="greekCharsSwitch">Inclure les caractères grecs dans la reconnaissance des caractères</string>
+    <string name="openFile">Fichier ouvert</string>
+    <string name="greekCharsOption">Reconnaître les caractères grecs</string>
+    <string name="saveImagesSwitch">Enregistrer les images capturées?</string>
+    <string name="saveImageOption">Enregistrer des images</string>
+    <string name="languageSelectSummary">Sélectionnez la langue pour la reconnaissance des caractères.</string>
+    <string name="thresholdDialogPositive">Seuil</string>
+    <string name="thresholdDialogTitle">Image de seuil?</string>
+    <string name="thresholdDialogText">Utilisez cette option pour obtenir de meilleurs résultats avec des caractères minces (écrits avec un stylo à bille, par exemple).</string>
+    <string name="thresholdDialogWill">Seuillage&#8230;</string>
+    <string name="thresholdDialogWont">Ne limite pas l\'image</string>
+    <string name="vertLineButton">Vert</string>
+    <string name="horzLineButton">Horz</string>
+    <string name="languagesOption">Les langues</string>
+    <string name="filesOptionsHeader">Fichier</string>
+    <string name="ocrOptionsHeader">Reconnaissance des lettres</string>
+    <string name="listprefSelectLang">Choisissez une langue</string>
+    <string name="recentFilesHeader">Fichiers récents</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tabulate</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="buttonOK">OK</string>
+    <string name="renameSuccessMessage">CSV wurde erfolgreich erstellt</string>
+    <string name="scanningImageMessage">Scannen</string>
+    <string name="noCSVMessage">Das Bild wurde noch nicht gescannt</string>
+    <string name="createCSVCancelled">CSV-Erstellung abgebrochen</string>
+    <string name="createCSVFailure">CSV-Erstellung fehlgeschlagen</string>
+    <string name="buttonCancel">Stornieren</string>
+    <string name="sp_languages">Sprachen</string>
+    <string name="loadImage">Bild laden</string>
+    <string name="scanButton">Scan</string>
+    <string name="AlertTitleSetFileName">Legen Sie den CSV-Dateinamen fest</string>
+    <string name="exportButton">CSV exportieren</string>
+    <string name="clearLinesButton">Klar</string>
+    <string name="delLineButton">Löschen</string>
+    <string name="cameraButton">Bild aufnehmen</string>
+    <string name="recentFiles">Letzte Dateien werden hier angezeigt</string>
+    <string name="exportFile">CSV teilen</string>
+    <string name="buttonSave">Speichern</string>
+    <string name="createImageFileFailure">FEHLER: Bilddatei konnte nicht erstellt werden</string>
+    <string name="aboutOption">Über</string>
+    <string name="thresholdDialogNegative">Nicht Schwelle</string>
+    <string name="helpOption">Hilfe</string>
+    <string name="greekCharsSwitch">Schließen Sie griechische Zeichen in die Zeichenerkennung ein</string>
+    <string name="openFile">Datei öffnen</string>
+    <string name="greekCharsOption">Erkenne griechische Zeichen</string>
+    <string name="saveImagesSwitch">Gespeicherte Bilder speichern?</string>
+    <string name="saveImageOption">Bilder speichern</string>
+    <string name="languageSelectSummary">Wählen Sie die Sprache für die Zeichenerkennung.</string>
+    <string name="thresholdDialogPositive">Schwelle</string>
+    <string name="thresholdDialogTitle">Schwellenwertbild?</string>
+    <string name="thresholdDialogText">Verwenden Sie dies für bessere Ergebnisse mit dünnen Zeichen (z. B. mit einem Kugelschreiber geschrieben).</string>
+    <string name="thresholdDialogWill">Schwellenwertbildung&#8230;</string>
+    <string name="thresholdDialogWont">Wird kein Schwellenwertbild angezeigt</string>
+    <string name="vertLineButton">Vert</string>
+    <string name="horzLineButton">Horz</string>
+    <string name="languagesOption">Sprachen</string>
+    <string name="filesOptionsHeader">Datei</string>
+    <string name="ocrOptionsHeader">Brief Anerkennung</string>
+    <string name="listprefSelectLang">Wähle eine Sprache</string>
+    <string name="recentFilesHeader">Letzte Dateien</string>
+</resources>

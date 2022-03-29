@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tabulate</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="buttonOK">De acuerdo</string>
+    <string name="renameSuccessMessage">CSV creado con éxito</string>
+    <string name="scanningImageMessage">Exploración</string>
+    <string name="noCSVMessage">Imagen aún no escaneada</string>
+    <string name="createCSVCancelled">Creación de CSV cancelada</string>
+    <string name="createCSVFailure">La creación de CSV falló</string>
+    <string name="buttonCancel">Cancelar</string>
+    <string name="sp_languages">Idiomas</string>
+    <string name="loadImage">Cargar imagen</string>
+    <string name="scanButton">Escanear</string>
+    <string name="AlertTitleSetFileName">Establecer el nombre de archivo CSV</string>
+    <string name="exportButton">Exportar CSV</string>
+    <string name="clearLinesButton">Claro</string>
+    <string name="delLineButton">Borrar</string>
+    <string name="cameraButton">Capturar imagen</string>
+    <string name="recentFiles">Los archivos recientes aparecerán aquí</string>
+    <string name="exportFile">Compartir CSV</string>
+    <string name="buttonSave">Guardar</string>
+    <string name="createImageFileFailure">ERROR: No se puede crear el archivo de imagen</string>
+    <string name="aboutOption">Sobre</string>
+    <string name="thresholdDialogNegative">No umbral</string>
+    <string name="helpOption">Ayuda</string>
+    <string name="greekCharsSwitch">¿Incluir caracteres griegos en el reconocimiento de caracteres.</string>
+    <string name="openFile">Abrir documento</string>
+    <string name="greekCharsOption">Reconocer caracteres griegos</string>
+    <string name="saveImagesSwitch">¿Guardar imágenes capturadas?</string>
+    <string name="saveImageOption">Guardar imagenes</string>
+    <string name="languageSelectSummary">Seleccione el idioma para el reconocimiento de caracteres.</string>
+    <string name="thresholdDialogPositive">Umbral</string>
+    <string name="thresholdDialogTitle">Imagen de umbral?</string>
+    <string name="thresholdDialogText">Use esto para obtener mejores resultados con caracteres delgados (por ejemplo, escrito con un bolígrafo).</string>
+    <string name="thresholdDialogWill">Umbral…</string>
+    <string name="thresholdDialogWont">No umbral de imagen</string>
+    <string name="vertLineButton">Vert</string>
+    <string name="horzLineButton">Horz</string>
+    <string name="languagesOption">Idiomas</string>
+    <string name="filesOptionsHeader">"Archivo "</string>
+    <string name="ocrOptionsHeader">Reconocimiento de letras</string>
+    <string name="listprefSelectLang">Selecciona un idioma</string>
+    <string name="recentFilesHeader">Archivos recientes</string>
+</resources>

@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Tabulate</string>
+    <string name="cameraButton">Capture Image</string>
+    <string name="recentFiles">Recent files will appear here</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="language_names_array">
+        <item>English</item>
+        <!--item>eng</item-->
+
+        <item>Français</item>
+        <!--item>fra</item-->
+
+        <item>Deutsch</item>
+        <!--item>deu</item-->
+
+        <item>Español </item>
+        <!--item>esp</item-->
+    </string-array>
+
+    <string-array name="language_values_array">
+        <!--item>English</item-->
+        <item>eng</item>
+
+        <!--item>French</item-->
+        <item>fra</item>
+
+        <!--item>German</item-->
+        <item>deu</item>
+
+        <!--item>Spanish</item-->
+        <item>esp</item>
+    </string-array>
+
+    <string name="vertLineButton">Vert</string>
+    <string name="horzLineButton">Horz</string>
+    <string name="delLineButton">Del</string>
+    <string name="clearLinesButton">Clear</string>
+    <string name="scanButton">Scan</string>
+    <string name="exportFile">Share CSV</string>
+    <string name="AlertTitleSetFileName">Set CSV file name</string>
+    <string name="buttonOK">OK</string>
+    <string name="buttonSave">Save</string>
+    <string name="renameSuccessMessage">CSV Successfully Created!</string>
+    <string name="scanningImageMessage">Scanning&#8230;</string>
+    <string name="noCSVMessage">Image not scanned yet!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="loadImage">Load Image</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="createCSVCancelled">CSV creation cancelled</string>
+    <string name="createCSVFailure">CSV Creation Failed</string>
+    <string name="createImageFileFailure">ERROR: Unable to create image file.</string>
+    <string name="saveImagesSwitch">Save captured images?</string>
+    <string name="saveImageOption">Save Images</string>
+    <string name="sp_languages">Languages</string>
+    <string name="languageSelectSummary">Select the language for character recognition.</string>
+    <string name="greekCharsSwitch">Include Greek characters in character recognition?</string>
+    <string name="greekCharsOption">Recognise Greek Characters</string>
+    <string name="languagesOption">Languages</string>
+    <string name="openFile">Open File</string>
+    <string name="aboutOption">About</string>
+    <string name="helpOption">Help</string>
+    <string name="thresholdDialogTitle">Threshold Image?</string>
+    <string name="thresholdDialogText">Use this for better results with thin characters (e.g. written with a ballpoint pen).</string>
+    <string name="thresholdDialogPositive">Threshold</string>
+    <string name="thresholdDialogNegative">Don\'t Threshold</string>
+    <string name="thresholdDialogWill">Thresholding&#8230;</string>
+    <string name="thresholdDialogWont">Won\'t threshold image</string>
+    <string name="exportButton">Export CSV</string>
+    <string name="filesOptionsHeader">Files</string>
+    <string name="ocrOptionsHeader">Character Recognition</string>
+    <string name="listprefSelectLang">Select a language</string>
+    <string name="recentFilesHeader">Recent Files</string>
+
+</resources>
